@@ -1,8 +1,8 @@
 {
 	"name": "space-tourism-website",
-	"author": "ashiqfury",
-	"description": "A challenge from FrontendMentor to develop a multipage website using ReactJS",
-	"homepage": "http://ashiqfury.github.io/space-tourism-website",
+	"author": "Kalvar Saad",
+	"description": "FrontendMentor",
+	"homepage": "https://61b8d0682209f41471f2102f--sharp-cori-6a738c.netlify.app/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
